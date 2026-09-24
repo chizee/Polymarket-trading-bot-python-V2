@@ -90,9 +90,8 @@ If you're interested in collaboration or have any questions or want buy profitab
 
 | Channel | Link |
 |---------|------|
-| **Email** | benjamin.bigdev@gmail.com |
 | **Telegram** | [@BenjaminCup](https://telegram.me/BenjaminCup) |
-| **X (Twitter)** | [@benjaminccup](https://x.com/benjaminccup) |
+
 
 
 If you'd like, I can show you a profitable bot in action through a meeting or you can run Telegram Bot Demo Version.
