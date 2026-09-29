@@ -94,7 +94,7 @@ If you're interested in collaboration or have any questions or want buy profitab
 
 
 
-If you'd like, I can show you a profitable bot in action through a meeting or you can run Telegram Bot Demo Version.
+If you'd like, I can show you a profitable bot in action through a meeting 
 
 
 ## 1. Polymarket Momentum Arbitrage bot (Twap-60s Available) (Introduction)
