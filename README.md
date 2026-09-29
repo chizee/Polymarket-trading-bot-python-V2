@@ -96,16 +96,6 @@ If you're interested in collaboration or have any questions or want buy profitab
 
 If you'd like, I can show you a profitable bot in action through a meeting or you can run Telegram Bot Demo Version.
 
-This is my Public Account.
-
-<img width="705" height="166" alt="image" src="https://github.com/user-attachments/assets/61a7c1f2-26bf-458a-b180-b8649dde33a6" />
-
-<img width="705" height="166" alt="benjamincup-8" src="https://github.com/user-attachments/assets/a272e6c9-478d-445a-90bb-6b2d0d29245f" />
-
-
-
-You can check the bot's pnl with this account.
-
 
 ## 1. Polymarket Momentum Arbitrage bot (Twap-60s Available) (Introduction)
 
